@@ -1,0 +1,2 @@
+# lindasu
+LindaSuBlog
